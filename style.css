@@ -1,0 +1,15 @@
+.bg{
+width: 100vw;
+height: 100vh;
+background-color : lavender;
+}
+.fblock{
+    height: 70vh;
+}
+.sblock{
+    height: 30vh;
+}
+.photob{
+    height: 70vh;
+    width: 100vw;
+}
